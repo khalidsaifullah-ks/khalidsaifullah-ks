@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?&logo=linkedin&logoColor=white" height="28"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/ks9128" target="_blank">
+  <a href="https://github.com/khalidsaifullah-ks" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white" height="28"/>
   </a>
 </p>
@@ -59,13 +59,13 @@
 
 ## 📊 GitHub Summary  
 <p align="center">
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ks9128&theme=tokyonight"/>
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khalidsaifullah-ks&theme=tokyonight"/>
 </p>
 
 <p align="center">
-  <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ks9128&theme=tokyonight"/>
+  <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=khalidsaifullah-ks&theme=tokyonight"/>
   &nbsp;&nbsp;
-  <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ks9128&theme=tokyonight&utcOffset=5"/>
+  <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=khalidsaifullah-ks&theme=tokyonight&utcOffset=5"/>
 </p>
 
 ---
